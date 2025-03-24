@@ -2,12 +2,12 @@
 
 int main(){
     char estado1, codigo_da_carta1[50], nome_da_cidade1[50], estado2, codigo_da_carta2[50], nome_da_cidade2[50];
-	int populacao1, ponto_turisticos1, populacao2, ponto_turisticos2;
+    int populacao1, ponto_turisticos1, populacao2, ponto_turisticos2;
     float area_km1, pib1, area_km2, pib2;
     /*Cada variavel esta representado por um numero ao final para cada uma das cartas,
     como exemplo carta1 , estado1 - carta2 , estado2, e assim por diante.*/
 
-	//========Abaixo, inicio do codigo para primeira carta.
+    //========Abaixo, inicio do codigo para primeira carta.
 
     //Imprime nome da primeira carta
     printf("\n_____Insira os dados da primeira carta: \n");
@@ -44,7 +44,7 @@ int main(){
     
     //========Abaixo, inicio do codigo para segunda carta.
 	
-	//Imprime nome da segunda carta
+    //Imprime nome da segunda carta
     printf("\n_____Insira os dados da segunda carta: \n");
     //Imprime o pedido de estado da segunda carta
     printf("Estado(Apenas uma letra): \n");
@@ -54,7 +54,7 @@ int main(){
     printf("Codigo: \n");
     //Abre o pedido de insercao do codigo da segunda carta
     scanf("%s", &codigo_da_carta2);
-	//Imprime o pedido de cidade da segunda carta
+    //Imprime o pedido de cidade da segunda carta
     printf("Nome da cidade(apenas uma palavra): \n");
     //Abre o pedido de insercao do cidade da segunda carta
     scanf("%s", nome_da_cidade2);
@@ -75,44 +75,44 @@ int main(){
     //Abre o pedido de insercao do numeros de pontos turisticos da segunda carta
     scanf("%d", &ponto_turisticos2);
 	
-	//Fim do questionario da segunda carta.
+    //Fim do questionario da segunda carta.
 		
-	//========Inicio do retorno dos dados da primeira carta.
+    //========Inicio do retorno dos dados da primeira carta.
 	
-	//Imprime nome da primeira carta.
+    //Imprime nome da primeira carta.
     printf("_____Dados da Primeira carta: \n");
-	//Imprime estado da primeira carta.
+    //Imprime estado da primeira carta.
     printf("Estado: %c\n", estado1);
-	//Imprime codigo da primeira carta.
+    //Imprime codigo da primeira carta.
     printf("Codigo: %s\n", codigo_da_carta1);
-	//Imprime cidade da primeira carta.
+    //Imprime cidade da primeira carta.
     printf("Cidade: %s\n", nome_da_cidade1);  
-	//Imprime populacao da primeira carta.
+    //Imprime populacao da primeira carta.
     printf("Populacao: %d\n", populacao1);
-	//Imprime area da primeira carta.
+    //Imprime area da primeira carta.
     printf("Area: %.2f\n", area_km1);
-	//Imprime pib da primeira carta.
+    //Imprime pib da primeira carta.
     printf("PIB: %.2f\n", pib1);
     //Imprime ponto turistico da primeira carta.
     printf("Pontos turisticos: %d\n", ponto_turisticos1);
 
-	//Fim das respostas da primeira carta.
+    //Fim das respostas da primeira carta.
 
-	//========Inicio do retorno dos dados da segunda carta.
+    //========Inicio do retorno dos dados da segunda carta.
 
-	//Imprime nome da segunda carta.
+    //Imprime nome da segunda carta.
     printf("\n_____Dados da Segunda carta: \n");
-	//Imprime estado da segunda carta.
+    //Imprime estado da segunda carta.
     printf("Estado: %c\n", estado2);
-	//Imprime codigo da segunda carta.
+    //Imprime codigo da segunda carta.
     printf("Codigo: %s\n", codigo_da_carta2);
-	//Imprime cidade da segunda carta.
+    //Imprime cidade da segunda carta.
     printf("Cidade: %s\n", nome_da_cidade2);  
-	//Imprime populacao da segunda carta.
+    //Imprime populacao da segunda carta.
     printf("Populacao: %d\n", populacao2);
-	//Imprime area da segunda carta.
+    //Imprime area da segunda carta.
     printf("Area: %.2f\n", area_km2);
-	//Imprime pib da segunda carta.
+    //Imprime pib da segunda carta.
     printf("PIB: %.2f\n", pib2);
     //Imprime ponto turistico da segunda carta.
     printf("Pontos turisticos: %d\n", ponto_turisticos2);
