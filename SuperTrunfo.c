@@ -123,7 +123,7 @@ int main(){
 	//Fim do questionario da segunda carta.
 	
 	//================	
-	//=========Inicio do retorno dos dados da primeira carta.
+	//========Inicio do retorno dos dados da primeira carta.
 	//================
 	
 	//Imprime nome da primeira carta.
@@ -153,7 +153,7 @@ int main(){
 	//Fim das respostas da primeira carta.
 
 	//================
-	//========+Inicio do retorno dos dados da segunda carta.
+	//========Inicio do retorno dos dados da segunda carta.
 	//================
 	
 	//Imprime nome da segunda carta.
