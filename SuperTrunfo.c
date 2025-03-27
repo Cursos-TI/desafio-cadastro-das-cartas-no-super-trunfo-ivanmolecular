@@ -18,7 +18,7 @@ int main(){
     //Imprime o pedido de codigo da primeira carta
     printf("Codigo: \n");
     //Abre o pedido de insercao do codigo da primeira carta
-    scanf("%s", &codigo_da_carta1);
+    scanf("%s", codigo_da_carta1);
     //Imprime o pedido de cidade da primeira carta
     printf("Nome da cidade(apenas uma palavra): \n");
     //Abre o pedido de insercao do cidade da primeira carta
@@ -53,7 +53,7 @@ int main(){
     //Imprime o pedido de codigo da segunda carta
     printf("Codigo: \n");
     //Abre o pedido de insercao do codigo da segunda carta
-    scanf("%s", &codigo_da_carta2);
+    scanf("%s", codigo_da_carta2);
 	//Imprime o pedido de cidade da segunda carta
     printf("Nome da cidade(apenas uma palavra): \n");
     //Abre o pedido de insercao do cidade da segunda carta
