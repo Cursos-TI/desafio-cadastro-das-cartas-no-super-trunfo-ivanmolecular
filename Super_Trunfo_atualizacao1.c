@@ -8,7 +8,7 @@ int main(){
     /*Cada variavel esta representado por um numero ao final para cada uma das cartas,
     como exemplo carta1 , estado1 - carta2 , estado2, e assim por diante.*/
 
-	  //================
+	//================
   	//========Abaixo, inicio do codigo para primeira carta.
   	//================
 	
