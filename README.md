@@ -1,4 +1,12 @@
-# Desafio Super Trunfo - Países - Cadastro das Cartas - Atualizado: 21/02
+# Desafio Super Trunfo - Paises -
+//===Atualizado: 21/02
+//Construido o codigo do zero
+//Cadastro das Cartas
+//===Atualizado: 27/02
+//Adicionado conta de pib e retorno dos dados
+//Adicionado conta de densidade demografica e retorno dos dados
+
+
 
 Bem-vindo ao desafio "Super Trunfo - Países"! No jogo Super Trunfo, os jogadores comparam os atributos das cartas para determinar a mais forte. O tema deste Super Trunfo é "Países", onde você comparará os atributos das cidades.
 
