@@ -264,7 +264,7 @@ int main(){
 	super_poder_master = super_poder_carta1 > super_poder_carta2;
 	
 	//Imprime o vencedor em super poder
-	printf("\nVenceu o super poder: %.0f", super_poder_master);
+	printf("\nVenceu o super poder: %.0f\n", super_poder_master);
 	
    //Finaliza o codigo
    return 0;
