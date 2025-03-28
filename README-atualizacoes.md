@@ -1,11 +1,35 @@
 //========= Desafio Super Trunfo - Paises =========
-//===Atualizado: 21/02
+//===Atualizado: 21/03/2025
 //Construido o codigo do zero
 //Cadastro das Cartas
-//===Atualizado: 27/02
+//===Atualizado: 27/03/2025
 //Adicionado conta de pib e retorno dos dados
 //Adicionado conta de densidade demografica e retorno dos dados
-
+//===Atualizado: 28/03/2025
+//Adicionado conta de comparacoes entre os itens das cartas
+//Abaixo segue os exemplos que foram utilizados para comparacao
+//
+//
+//Cidade 01:		
+//População	2.140.000 (M) → 2,14 milhões	2140000
+//Área	105.500.000 (m²) → 105,5 km²	105500000
+//PIB	564.000.000 (MI) → 564 milhões	564000000
+//Pontos turísticos	50	50
+//PIB per capita	263,55	26355
+//Densidade populacional (pessoas por km²)	20.284,00	20284
+//Densidade populacional invertida	0.0000493	0.0000493
+//       
+//        
+//Cidade 02:		
+//População	3.800.000 (M) → 3,8 milhões	3800000
+//Área	150.000.000 (m²) → 150 km²	150000000
+//PIB	813.000.000 (MI) → 813 milhões	813000000
+//Pontos turísticos	75	75
+//PIB per capita	214,47	214.47
+//Densidade populacional (pessoas por km²)	25.333	25333
+//Densidade populacional invertida	0.0000395	0.0000395
+//
+//
 
 
 Bem-vindo ao desafio "Super Trunfo - Países"! No jogo Super Trunfo, os jogadores comparam os atributos das cartas para determinar a mais forte. O tema deste Super Trunfo é "Países", onde você comparará os atributos das cidades.
